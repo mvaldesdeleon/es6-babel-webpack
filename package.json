@@ -33,7 +33,7 @@
     "node": "^6.0.0"
   },
   "files": [
-    "index.js",
+    "src/index.js",
     "index.html",
     "server.js",
     "webpack.config.dev.js",

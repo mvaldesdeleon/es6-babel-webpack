@@ -4,7 +4,7 @@ import webpack from 'webpack';
 export default {
     devtool: 'source-map',
     entry: [
-        './index.js'
+        './src/index.js'
     ],
     output: {
         path: path.join(__dirname, 'dist'),

@@ -4,7 +4,7 @@ import webpack from 'webpack';
 export default {
     devtool: 'cheap-module-eval-source-map',
     entry: [
-        './index.js',
+        './src/index.js',
         'webpack-hot-middleware/client'
     ],
     output: {
